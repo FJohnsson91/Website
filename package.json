@@ -9,6 +9,10 @@
     "type": "git",
     "url": "https://github.com/arifszn/gitprofile.git"
   },
+    "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
   "bugs": {
     "url": "https://github.com/arifszn/gitprofile/issues"
   },
